@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: laravel-backend
+    name: tiketin-api
     env: php
     plan: free
     buildCommand: |
